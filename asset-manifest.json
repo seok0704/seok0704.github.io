@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7129e26b.chunk.css",
+    "main.js": "/static/js/main.d3ab5eb7.chunk.js",
+    "main.js.map": "/static/js/main.d3ab5eb7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58b0d4bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58b0d4bf.js.map",
+    "static/js/2.09acb2d9.chunk.js": "/static/js/2.09acb2d9.chunk.js",
+    "static/js/2.09acb2d9.chunk.js.map": "/static/js/2.09acb2d9.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/static/css/3.25727338.chunk.css",
+    "static/js/3.eee964f8.chunk.js": "/static/js/3.eee964f8.chunk.js",
+    "static/js/3.eee964f8.chunk.js.map": "/static/js/3.eee964f8.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/static/css/4.a8329f31.chunk.css",
+    "static/js/4.149606b0.chunk.js": "/static/js/4.149606b0.chunk.js",
+    "static/js/4.149606b0.chunk.js.map": "/static/js/4.149606b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3abc2551da02fe1ef88cc55eca417c07.js": "/precache-manifest.3abc2551da02fe1ef88cc55eca417c07.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.7129e26b.chunk.css.map": "/static/css/main.7129e26b.chunk.css.map",
+    "static/js/2.09acb2d9.chunk.js.LICENSE.txt": "/static/js/2.09acb2d9.chunk.js.LICENSE.txt",
+    "static/media/1591628761190.jfif": "/static/media/1591628761190.9e307327.jfif",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/amphenol.jpg": "/static/media/amphenol.4fea8546.jpg",
+    "static/media/banana.jpg": "/static/media/banana.f8e820dc.jpg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/gpu.jpg": "/static/media/gpu.5fe72036.jpg",
+    "static/media/harvardLogo.png": "/static/media/harvardLogo.35ef5e91.png",
+    "static/media/leagueoflegends.jpg": "/static/media/leagueoflegends.1c66220c.jpg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nvidia.png": "/static/media/nvidia.41736f27.png",
+    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
+    "static/media/teslaLogo.png": "/static/media/teslaLogo.506dc1db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58b0d4bf.js",
+    "static/js/2.09acb2d9.chunk.js",
+    "static/css/main.7129e26b.chunk.css",
+    "static/js/main.d3ab5eb7.chunk.js"
+  ]
+}
