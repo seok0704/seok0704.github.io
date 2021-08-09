@@ -1,6 +1,7 @@
 import React, {useContext} from "react";
 import "./Achievement.scss";
 import AchievementCard from "../../components/achievementCard/AchievementCard";
+import Button from "../../components/button/Button";
 import {achievementSection} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
@@ -41,6 +42,7 @@ export default function Achievement() {
                   isDark={isDark}
                   cardInfo={{
                     title: card.title,
+                    tech:card.tech,
                     description: card.subtitle,
                     image: card.image,
                     footer: card.footerLink
@@ -49,6 +51,12 @@ export default function Achievement() {
               );
             })}
           </div>
+          <Button
+            text={"More Projects"}
+            className="project-button"
+            href={"https://github.com/seok0704/jc-projects"}
+            newTab={true}
+          />
         </div>
       </div>
     </Fade>
